@@ -115,7 +115,6 @@ const InvoiceTemplate = ({ data }) => {
         <Text style={styles.termsTitle}>TERMS AND CONDITIONS</Text>
         
         <View style={styles.termsSection}>
-          <Text>MOHALE M.V</Text>
           <Text style={styles.termsHeader}>1. No Refunds</Text>
           <Text>
             Our company strictly adheres to a no-refund policy for all services rendered.
@@ -125,7 +124,6 @@ const InvoiceTemplate = ({ data }) => {
         </View>
 
         <View style={styles.termsSection}>
-          <Text>MOHALE M.V</Text>
           <Text style={styles.termsHeader}>2. Service Timelines</Text>
           <Text>
             We will make every effort to process requests within the stated
@@ -135,7 +133,6 @@ const InvoiceTemplate = ({ data }) => {
         </View>
 
         <View style={styles.termsSection}>
-          <Text>MOHALE M.V</Text>
           <Text style={styles.termsHeader}>3. Client Responsibility</Text>
           <Text>clients are responsible for providing accurate and complete
                 information required for the services. Any inaccuracies or omissions may delay or affect the
@@ -143,7 +140,6 @@ const InvoiceTemplate = ({ data }) => {
         </View>
 
         <View style={styles.termsSection}>
-          <Text>MOHALE M.V</Text>
           <Text style={styles.termsHeader}>4. Third-Party Dependencies</Text>
           <Text>For services like debt review removals, judgment removals, or
                 prescription letters, our company relies on third-party credit providers, credit bureaus, or
@@ -152,7 +148,6 @@ const InvoiceTemplate = ({ data }) => {
         </View>
 
         <View style={styles.termsSection}>
-          <Text>MOHALE M.V</Text>
           <Text style={styles.termsHeader}>5. Communication</Text>
           <Text>All communication regarding the status of your request will be done via
                 email or phone, as provided during the onboarding process. It is the client's responsibility to
@@ -160,14 +155,12 @@ const InvoiceTemplate = ({ data }) => {
         </View>
 
         <View style={styles.termsSection}>
-          <Text>MOHALE M.V</Text>
           <Text style={styles.termsHeader}>6. Service Delivery</Text>
           <Text>Delivery:Our company will deliver the requested documents or updates
                 electronically or by post, depending on the client's preference and the nature of the service.</Text>
         </View>
 
         <View style={styles.termsSection}>
-          <Text>MOHALE M.V</Text>
           <Text style={styles.termsHeader}>7. Acceptance</Text>
           <Text>By engaging our services, clients acknowledge that they have read, understood, and accepted these terms and conditions.</Text>
         </View>
